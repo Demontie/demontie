@@ -1,16 +1,29 @@
-## Hi there 👋
+# Demontie Ferreira
+**`Engenheiro de Software`**
 
-<!--
-**Demontie/demontie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋 Sou um Engenheiro de Software apaixonado por criar soluções inovadoras e de alta qualidade.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/demontie">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=demontie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demontie&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
+## 📫 Como me encontrar
+- GitHub: [github.com/demontie](https://github.com/demontie)
+- LinkedIn: [demontie-costa](https://www.linkedin.com/in/demontie-costa/)
+- E-mail: demontieferreiradev@gmail.com
+
+## 📈 Atividade Recente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=demontie&style=flat-square&color=blue" alt="Visualizações do perfil"/>
+</div>
