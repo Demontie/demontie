@@ -8,8 +8,8 @@ Olá! 👋 Sou um Engenheiro de Software apaixonado por criar soluções inovado
 
 <div align="center">
   <a href="https://github.com/demontie">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=demontie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demontie&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="github-readme-stats-eight-theta.vercel.app?username=demontie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=demontie&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
@@ -17,13 +17,3 @@ Olá! 👋 Sou um Engenheiro de Software apaixonado por criar soluções inovado
 - GitHub: [github.com/demontie](https://github.com/demontie)
 - LinkedIn: [demontie-costa](https://www.linkedin.com/in/demontie-costa/)
 - E-mail: demontieferreiradev@gmail.com
-
-## 📈 Atividade Recente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=demontie&style=flat-square&color=blue" alt="Visualizações do perfil"/>
-</div>
